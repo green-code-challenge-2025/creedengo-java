@@ -1,0 +1,9 @@
+= Creedengo Java plugin
+// TODO make this a quick-access page, with easy to see tiles.
+
+* Developers
++
+--
+include::dev:partial$dev-guides-list.adoc[]
+--
+include::partial$page-list.adoc[]

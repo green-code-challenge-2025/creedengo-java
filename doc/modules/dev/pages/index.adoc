@@ -1,0 +1,5 @@
+= Developer guides for `creedengo-java`
+:navtitle: Developers
+// TODO make this a quick-access page, with easy to see tiles.
+
+include::partial$dev-guides-list.adoc[]

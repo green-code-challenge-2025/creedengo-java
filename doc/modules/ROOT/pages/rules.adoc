@@ -1,0 +1,2 @@
+// FIXME integrate rules specifications to Antora
+Please read https://github.com/green-code-initiative/creedengo-rules-specifications/blob/main/RULES.md[RULES.md] in `creedengo-rules-specifications` repository.

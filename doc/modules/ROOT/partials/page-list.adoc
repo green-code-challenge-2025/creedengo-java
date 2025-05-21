@@ -1,0 +1,4 @@
+// FIXME where does installation belong? Dev? User?
+* xref:installation.adoc[]
+* xref:rules.adoc[]
+* xref:changelog.adoc[]

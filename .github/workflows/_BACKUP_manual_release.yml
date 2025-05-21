@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       confirmeRelease:
-        description: 'Confirm manual release creation (by typing "true") ?  -----  WARNING : check version (in pom.xml files) and release notes (in CHANGELOG.md file) before confirm'
+        description: 'Confirm manual release creation (by typing "true") ?  -----  WARNING : check version (in pom.xml files) and release notes (in CHANGELOG.adoc file) before confirm'
         default: 'false'
 jobs:
   checks:

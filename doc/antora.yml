@@ -1,0 +1,6 @@
+name: creedengo-java # the slug used in URL and for display
+version: 2.1.2 # The current version
+prerelease: -SNAPSHOT # Comment line for final release
+nav:
+  - modules/dev/nav.adoc
+  - modules/ROOT/nav.adoc
