@@ -1,1 +1,1 @@
-include::creedengo-common:dev:page$contributing.adoc[]
+include::creedengo:ROOT:contributing.adoc[]
